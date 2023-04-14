@@ -1,0 +1,9 @@
+
+.caja { 
+    color: #ffffff; 
+    font-size: 18px; 
+     background: #889ccf;  
+    padding: 20px; 
+     /* border-radius: 35px 0px 35px 0px;  */ 
+     border: 2px solid #5878ca; 
+   }
