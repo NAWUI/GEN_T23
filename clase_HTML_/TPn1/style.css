@@ -1,0 +1,24 @@
+
+.caja { 
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #ffffff; 
+    font-size: 18px; 
+     background: #889ccf;  
+    padding: 20px; 
+    border-radius: 35px 40px 35px 40px;  
+     border: 2px solid #5878ca; 
+   }
+
+.interno   {
+    float: left;
+    text-align: center;
+    width:15%;
+  }
+.barra {
+  text-align: center;
+  list-style-type: none;
+}
+
+body{
+  background-color:rgb(115, 132, 207);
+}

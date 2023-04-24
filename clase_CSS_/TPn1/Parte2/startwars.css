@@ -1,0 +1,56 @@
+body{
+    background-image: url("start.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-shadow: 0 0 10px black;
+}
+.imperio{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 1000px;
+    background-color: red;
+}
+.rebeldes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    width: 1000px;
+    background-color: blue;
+}
+
+#darth_vader{
+    font-size: 32px;
+}
+
+#luke{
+    font-size: 32px;
+    font-style: italic;
+}
+.soldados{
+    border-style:dashed;
+    letter-spacing: 5px;
+}
+.apoyo{
+    text-align: center;
+}
+.naves{
+    text-transform: uppercase;
+}
+
+.droides{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 50%;
+}
